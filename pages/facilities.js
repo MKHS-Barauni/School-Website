@@ -35,7 +35,7 @@ const facilities = () => {
         </h2>
     <div className='p-2 pt-8 lg:text-lg lg:px-16'>
         <p className='text-justify font-semibold'> 
-        The MKHS curriculum model reflects the school's commitment towards building strong foundation and to facilitate Children's holistic development and well-being. With the CBSE curriculum as a basic structure, MKHS adds flavor and strength by giving special emphasis on Spoken English, Mathematics, STEM Lab activities. Preparation of various school entrance exams (Simutala, Navodaya Vidyalaya, Sainik School) and other exams like Olympiads is part of the regular class room teaching. Further, comprising a dynamic and colourful potpourri of academics, sports, performing arts, fine arts etc., our curriculum is aimed at developing creativity and exposing kids to varied educational experiences preparing them to face the future challenges. We enable the learner to explore multiple dimensions of excellence, encompassing intellectual, social, emotional and physical development.
+        The MKHS curriculum model reflects the school&#39;s commitment towards building strong foundation and to facilitate Children&#39;s holistic development and well-being. With the CBSE curriculum as a basic structure, MKHS adds flavor and strength by giving special emphasis on Spoken English, Mathematics, STEM Lab activities. Preparation of various school entrance exams (Simutala, Navodaya Vidyalaya, Sainik School) and other exams like Olympiads is part of the regular class room teaching. Further, comprising a dynamic and colourful potpourri of academics, sports, performing arts, fine arts etc., our curriculum is aimed at developing creativity and exposing kids to varied educational experiences preparing them to face the future challenges. We enable the learner to explore multiple dimensions of excellence, encompassing intellectual, social, emotional and physical development.
         </p>
     </div>
 </div>
@@ -47,7 +47,7 @@ const facilities = () => {
         </h2>
     <div className='p-2 pt-8 lg:text-lg lg:px-16'>
         <p className='text-justify font-semibold'> 
-        "A healthy mind lives in a healthy body". The MKHS aims to give strong emphasis on activities like indoor/outdoor games, yoga and regular medical check-ups to ensure that our students remain physically and mentally fit. We have been regularly organizing medical health check-ups for our students, in association with Lifeline Hospital & Research Center Barauni.
+        &#34;A healthy mind lives in a healthy body&#34;. The MKHS aims to give strong emphasis on activities like indoor/outdoor games, yoga and regular medical check-ups to ensure that our students remain physically and mentally fit. We have been regularly organizing medical health check-ups for our students, in association with Lifeline Hospital & Research Center Barauni.
         </p>
     </div>
 </div>
