@@ -9,24 +9,24 @@ const facilities = () => {
 
 <div className='mt-6 p-2'>
         <h2 className='text-center text-2xl md:text-3xl font-extrabold'>
-            <span className='border-b-4 border-orange-400 pb-2 px-2 md:px-8'>
+          <span className='border-b-4 border-orange-400 pb-2 px-2 md:px-8'>
             What makes MKHS unique?
-            </span>
+          </span>
         </h2>
-    <div className='p-2 pt-8 lg:text-lg lg:px-16'>
-        <p className='text-justify font-semibold'> 
-    <strong>These factors set us apart:</strong>
-    <br />
-    &bull; A safe and secure learning environment, with focus on student well-being
-    <br />
-    &bull; Talented, experienced and dedicated teachers with linguistic and cultural diversity.
-    <br />
-    &bull; Focus on all-round development of children
-    <br />
-    &bull; Affordable fee structure
-        </p>
-    </div>
-</div>
+        <div className='p-2 pt-8 lg:text-lg lg:px-16'>
+          <p className='text-justify font-semibold'>
+            <strong>These factors set us apart:</strong>
+            <br />
+            &bull; A safe and secure learning environment, with a focus on student well-being
+            <br />
+            &bull; Talented, experienced, and dedicated teachers with linguistic and cultural diversity.
+            <br />
+            &bull; Focus on all-round development of children
+            <br />
+            &bull; Affordable fee structure
+          </p>
+        </div>
+      </div>
 <div className='mt-6 p-2'>
         <h2 className='text-center text-2xl md:text-3xl font-extrabold'>
             <span className='border-b-4 border-orange-400 pb-2 px-2 md:px-8'>
