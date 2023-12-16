@@ -13,6 +13,9 @@ const Tracks = () => {
                 <h1 className=" text-center text-black text-4xl sm:text-6xl font-bold leading-[3rem] border-b-4 border-blue-500 pb-1 md:pb-3">Campus</h1>
                 {/* <div className="mt-1 sm:mt-4 h-1 w-12 sm:w-20 bg-blue-600 rounded"></div> */}
               </div>
+              <div id="New_Building">
+              <RightImageCard id = "New_Building" title="New Building" description="Nestled in a spacious and picturesque campus, our state-of-the-art facility is designed to provide an enriching environment for students to thrive academically and personally. The building boasts cutting-edge classrooms, equipped with the latest technology to enhance the learning experience. Spacious common areas and vibrant corridors create a sense of community and collaboration. Our commitment to sustainability is reflected in eco-friendly features, such as energy-efficient lighting and green spaces. With safety and security as top priorities, the new school building ensures a secure and nurturing environment for all. We invite you to explore and be a part of this exciting chapter in our school's history as we continue to provide an exceptional space for learning, growth, and success. Welcome to a new era of education at our magnificent new school building!" image="/newbuilding2.jpeg" />
+              </div>
               <div id="Classrooms">
               <LeftImageCard id = "Classroom" title="Classrooms" description="Our classrooms are designed to foster creativity, collaboration, and critical thinking. With spacious layouts, abundant natural light, and ergonomic furniture, our students experience a comfortable and inspiring environment conducive to academic excellence. Each classroom is equipped with state-of-the-art technology to enhance the learning experience, including interactive whiteboards and multimedia resources." image="/infra1.png" />
               </div>
