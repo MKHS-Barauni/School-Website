@@ -10,9 +10,10 @@ const Footer = () => {
           <div className="w-72 py-2 mr-20"> {/* Added margin-right here */}
             <h2 className="title-font font-medium text-gray-900 tracking-widest text-xl mb-2 border-b-4 border-blue-500 pb-1 md:pb-2 rounded">Contact Information</h2>
             <nav className="list-none mb-10 mt-3">
-              <li className="text-gray-600 hover:text-gray-800"><b>PHONE:</b> +91 9709588535, +91 9661149150</li>
-              <li className="text-gray-600 hover:text-gray-800"><b>EMAIL:</b> mgsfoundationbarauni@gmail.com</li>
-              <li className="text-gray-600 hover:text-gray-800"><b>ADDRESS:</b> Mahamana Knowledge Campus, Kalambagh, Sokhara-2, Barauni (Bihar) - 851112</li>
+              <li className="text-gray-600 hover:text-gray-800"><b>PHONE:</b> +91 9973747587, +91 8877180037, +91 8877180097</li>
+              <li className="text-gray-600 hover:text-gray-800"><b>EMAIL:</b> mkhsbarauni@gmail.com</li>
+              <li className="text-gray-600 hover:text-gray-800"><b>ADDRESS:</b> Kashidham Campus, Bhagwanpur Road, Pipra Devas, Barauni ,Begusarai - 851112</li>
+        <li className="text-gray-600 hover:text-gray-800"><b>WEBSITE:</b> <a href="www.mkhsbarauni.co.in">www.mkhsbarauni.co.in</a></li>
             </nav>
           </div>
           <div className="ml-6">
