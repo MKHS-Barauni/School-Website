@@ -156,9 +156,9 @@ const Navbar = () => {
                 Fire Certificate
                 </li>
               </Link>
-              <Link href='/DEOCertificate' scroll={false}>
+              <Link href='/selfdeclarationcertificate' scroll={false}>
                 <li className={`${router.pathname == "/more#media" ? "hover-border-orange-400 text-orange-400" : ""} hover-bg-orange-300 hover-text-black rounded-lg w-full text-left p-2`}>
-                DEO Certificate
+                Self Declaration Certificate
                 </li>
               </Link>
               <Link href='/WaterHealthCertificate' scroll={false}>

@@ -11,7 +11,7 @@ const DEOCertificate = () => {
             </div>
             <div className="flex justify-center mt-4">
               <iframe 
-                src="/Self-Declaration.pdf" 
+                src="/Self Certification.pdf" 
                 width="80%" 
                 height="600px" 
                 title="Trust Certificate" 

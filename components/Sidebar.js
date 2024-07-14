@@ -148,9 +148,9 @@ const Sidebar = ({ setIsOpenSidebar }) => {
                   Fire Certificate
                 </li>
                 <li
-                  onClick={() => navigate('/DEOCertificate')}
+                  onClick={() => navigate('/selfdeclarationcertificate')}
                   className='py-2 px-4 hover:bg-white hover:text-black rounded-lg'>
-                  DEO Certificate
+                  Self Declaration Certificate
                 </li>
                 <li
                   onClick={() => navigate('/WaterHealthCertificate')}
