@@ -182,6 +182,11 @@ const Sidebar = ({ setIsOpenSidebar }) => {
                   className='py-2 px-4 hover:bg-white hover:text-black rounded-lg'>
                   3 Year Results
                 </li>
+                <li
+                  onClick={() => navigate('/MandatoryPublicDisclosures')}
+                  className='py-2 px-4 hover:bg-white hover:text-black rounded-lg'>
+                  Mandatory Public Disclosures
+                </li>
               </ul>
             </div>
           </motion.div>

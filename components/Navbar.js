@@ -191,6 +191,11 @@ const Navbar = () => {
                 3 Year Results
                 </li>
               </Link>
+              <Link href='/MandatoryPublicDisclosures' scroll={false}>
+                <li className={`${router.pathname == "/more#media" ? "hover-border-orange-400 text-orange-400" : ""} hover-bg-orange-300 hover-text-black rounded-lg w-full text-left p-2`}>
+                Mandatory Public Disclosures
+                </li>
+              </Link>
             </ul>
           </div>
         </span>

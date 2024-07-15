@@ -1,20 +1,20 @@
 import React from 'react'
 
-const DEOCertificate = () => {
+const FeeStructure = () => {
   return (
     <main className="flex-grow overflow-x-clip bg-gray-50 pt-14">
       <div className="min-h-full bg-gradient-to-r from-white to-indigo-50">
         <div className="relative flex-grow items-start justify-start space-x-2 px-4 md:flex md:flex-row md:px-8 xl:px-10">
           <main className="w-full pt-4 md:flex-grow">
             <div className="flex flex-col items-center justify-center px-4 py-2 sm:p-6">
-              <h1 className="text-center text-black text-4xl sm:text-6xl font-bold leading-[3rem] border-b-4 border-blue-500 pb-1 md:pb-3">Self Declaration Certificate</h1>
+              <h1 className="text-center text-black text-4xl sm:text-6xl font-bold leading-[3rem] border-b-4 border-blue-500 pb-1 md:pb-3">Mandatory Public Disclosures</h1>
             </div>
             <div className="flex justify-center mt-4">
               <iframe 
-                src="/Self Certification.pdf" 
+                src="/MandatoryDisclosure.pdf" 
                 width="80%" 
                 height="600px" 
-                title="Trust Certificate" 
+                title="Mandatory Public Disclosures" 
                 className="border-2 border-blue-500"
               >
               </iframe>
@@ -26,4 +26,4 @@ const DEOCertificate = () => {
   )
 }
 
-export default DEOCertificate
+export default FeeStructure
