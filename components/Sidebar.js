@@ -158,6 +158,11 @@ const Sidebar = ({ setIsOpenSidebar }) => {
                   Water Health Certificate
                 </li>
                 <li
+                  onClick={() => navigate('/LandCertificate')}
+                  className='py-2 px-4 hover:bg-white hover:text-black rounded-lg'>
+                  Land Certificate
+                </li>
+                <li
                   onClick={() => navigate('/FeeStructure')}
                   className='py-2 px-4 hover:bg-white hover:text-black rounded-lg'>
                   Fee Structure
