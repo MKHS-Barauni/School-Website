@@ -1,6 +1,6 @@
 
 
-## IEEE MAC2024 Website
+## IEEE MAC2024 School Website
 
 
 
