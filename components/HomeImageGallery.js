@@ -6,7 +6,7 @@ import gradients from "../styles/customGradient.module.css";
 
 export default function HomeImageGallery() {
   return (
-    <div className="pt-12">
+    <div className="pt-10">
       <Swiper
         spaceBetween={0}
         centeredSlides={true}
@@ -17,12 +17,12 @@ export default function HomeImageGallery() {
         }}
         navigation={true}
         modules={[Autoplay, Navigation]}
-        className={`mySwiper ${gradients.homePage} text-center w-[70%] h-[30vh] md:h-[90vh]`}
+        className={`mySwiper ${gradients.homePage} text-center w-[90%] h-[35vh] md:h-[90vh]`}
       >
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
-              src="/newbuilding1.jpeg"
+              src="/1.png"
               className="w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -30,7 +30,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
-              src="/banner.png"
+              src="/2.png"
               className="w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -38,7 +38,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/infra1.png"
+              src="/3.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -46,7 +46,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
-              src="/clab.png"
+              src="/4.png"
               className="w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -54,7 +54,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/od1.png"
+              src="/5.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -62,7 +62,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/well3.png"
+              src="/6.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -70,7 +70,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/labs3.png"
+              src="/7.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -78,7 +78,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/labs1.png"
+              src="/8.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
