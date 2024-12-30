@@ -54,18 +54,9 @@ const Navbar = () => {
    <p
      className="text-[11px] leading-[10px] sm:text-sm md:text-base lg:text-lg text-white"
    >
-     ENGLISH MEDIUM, CBSE CURRICULUM
+     AFFILIATED TO C.B.S.E. NEW DELHI, AFFILIATION NO. 331247, SCHOOL CODE - 67069 | NURSERY TO 10+2
    </p>
 
-
-   <p
- className="mt-1 text-[10px] leading-[10px] text-red-500 sm:text-sm md:text-base lg:text-lg"
->
- AFFILIATED TO C.B.S.E. NEW DELHI, AFFILIATION NO. 331247, SCHOOL CODE - 67069 | NURSERY TO 10+2
-</p>
-
-
-  
  </div>
 
 

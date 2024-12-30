@@ -30,7 +30,7 @@ const HomeMain = () => {
 
 
      <div className={`w-full text-black ${gradients.homePage}`}>
-       <section className="pt-6 w-full">
+       <section className="pt-3 w-full">
          <div className="container mx-auto flex md:px-5 py-2 md:flex-row flex-col items-center">
            <div className="lg:flex-grow md:w-1/2 px-6 lg:pr-24 md:pr-16 relative flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
              <h1 className="relative title-font text-4xl md:text-6xl mb-4 font-bold border-b-4 pb-4 px-8 md:px-0 md:pr-24 border-cyan-600">
