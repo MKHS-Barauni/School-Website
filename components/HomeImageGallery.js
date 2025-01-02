@@ -38,7 +38,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/3.png"
+              src="/n3.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -46,7 +46,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
-              src="/4.png"
+              src="/n4.png"
               className="w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -54,7 +54,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/5.png"
+              src="/n5.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -62,7 +62,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/6.png"
+              src="/n1.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -70,7 +70,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/7.png"
+              src="/n7.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -78,7 +78,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/8.png"
+              src="/n8.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -86,7 +86,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <motion.img
-              src="/labs2.png"
+              src="/n2.png"
               className="scale w-full h-full brightness-75 object-cover"
             />
           </div>
