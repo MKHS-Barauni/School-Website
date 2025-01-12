@@ -42,7 +42,7 @@ const Navbar = () => {
               <h1 className="text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-4xl font-serif text-[#FFA500] whitespace-normal leading-tight">
                 Mahamana Knowledge Heritage School
               </h1>
-              <p className="text-[11px] leading-[11px] sm:text-[10px] md:text-base lg:text-lg text-black">
+              <p className="text-[11px] leading-[11px] sm:text-[10px] md:text-base lg:text-lg text-white">
                 AFFILIATED TO C.B.S.E. NEW DELHI, AFFILIATION NO. 331247, SCHOOL CODE - 67069 | NURSERY TO 10+2
               </p>
             </div>
