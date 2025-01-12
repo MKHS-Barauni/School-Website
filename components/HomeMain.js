@@ -62,7 +62,7 @@ It is well-established that unique teaching /learning has most significant impac
                </span>
              </h1>
              <h2 className='text-orange-600 font-bold text-xl mb-6'>
-               To become an excellent center for education which provides scientific knowledge, modern skill and strong value based character <br /> to the young minds.
+               To become an excellent center for education which provides scientific knowledge, modern skill and strong value based character to the young minds.
              </h2>
              </div>
            </div>
