@@ -57,7 +57,8 @@ const guideline = () => {
 
               </div>
             </section>
-            <ImageCard title="" image1="/reception.png" image2="/gate.png" image3="/ofc.png" />  
+            <ImageCard title="" image1="/ad1.jpg" image2="/ad2.jpg" image3="/ad3.jpg" /> 
+            <ImageCard title="" image1="/ad5.jpg" image2="/ad4.jpg" image3="/ad6.jpg" />  
           </main>
         </div>
 
