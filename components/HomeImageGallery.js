@@ -37,6 +37,14 @@ export default function HomeImageGallery() {
         </SwiperSlide>
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
+            <img
+              src="/DCP1.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
             <motion.img
               src="/n3.png"
               className="scale w-full h-full brightness-75 object-cover"
