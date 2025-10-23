@@ -1,5 +1,4 @@
 import React from 'react'
-// import Lottie from "lottie-react";
 import dynamic from "next/dynamic";
 const Lottie = dynamic(() => import("lottie-react"), { ssr: false });
 import examsPreparation from "../lottieFiles/examsPreparation.json"
