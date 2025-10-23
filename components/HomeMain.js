@@ -3,7 +3,6 @@ import HomeImageGallery from './HomeImageGallery';
 import { MdLocationOn } from 'react-icons/md';
 import { BsFillCalendarCheckFill } from 'react-icons/bs';
 import gradients from '../styles/customGradient.module.css';
-import Lottie from 'lottie-react';
 import research from '../lottieFiles/research.json';
 import { useRouter } from 'next/router';
 import Map from './Map';

@@ -1,5 +1,4 @@
 import React from 'react'
-import Lottie from "lottie-react";
 import examsPreparation from "../lottieFiles/examsPreparation.json"
 import gradients from "../styles/customGradient.module.css";
 import ImageCard from '../components/ImageCard'
