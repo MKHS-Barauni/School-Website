@@ -37,6 +37,62 @@ export default function HomeImageGallery() {
         </SwiperSlide>
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
+            <img
+              src="/DCP1.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/DCP2.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/PTM3.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/PTM4.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/PC5.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/CBP6.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/CBP7.jpeg"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
             <motion.img
               src="/n3.png"
               className="scale w-full h-full brightness-75 object-cover"
