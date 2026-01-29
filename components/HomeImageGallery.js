@@ -22,7 +22,7 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
-              src="/1.png"
+              src="/school-building_ao_banner.png"
               className="w-full h-full brightness-75 object-cover"
             />
           </div>
@@ -30,7 +30,39 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
-              src="/2.png"
+              src="/sof-achievers.png"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/school-inauguration.png"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/varun-beverage.png"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/rajgir-trip.png"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
+              src="/cbp-december.png"
               className="w-full h-full brightness-75 object-cover"
             />
           </div>
