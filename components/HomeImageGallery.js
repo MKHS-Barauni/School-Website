@@ -30,6 +30,14 @@ export default function HomeImageGallery() {
         <SwiperSlide>
           <div className="w-full h-full overflow-hidden">
             <img
+              src="/mkhs-11th-batch.png"
+              className="w-full h-full brightness-75 object-cover"
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="w-full h-full overflow-hidden">
+            <img
               src="/sof-achievers.png"
               className="w-full h-full brightness-75 object-cover"
             />
