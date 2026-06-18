@@ -11,7 +11,7 @@ const FireCertificate = () => {
             </div>
             <div className="flex justify-center mt-4">
               <iframe 
-                src="/Fire Certificate.pdf" 
+                src="/Fire_Certificate_26.pdf" 
                 width="80%" 
                 height="600px" 
                 title="Trust Certificate" 
